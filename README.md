@@ -134,6 +134,6 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 ---
 
-[# Wasayullah](https://github.com/Wasayullah)
+# [Wasayullah](https://github.com/Wasayullah)
  
  
