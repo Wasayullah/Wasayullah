@@ -87,7 +87,7 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wasayullah/Wasayullah/output/snake.svg" width="100%" alt="contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Wasayullah/Wasayullah/output/snake-dark.svg" width="100%" alt="contribution snake animation"/>
 
 </div>
 <br>
