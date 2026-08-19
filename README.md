@@ -111,7 +111,7 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-wasay-ullah-a8805b3a7)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wasayullah._.mohammad) 
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/WasayUllah369)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mohammad-wasayullah)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33022748/mohammad-wasayullah)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ff2v5vBss)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasayullahmohammad@gmail.com)
 
