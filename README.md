@@ -78,7 +78,7 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <div align="center">
 
- <img src="./activity-graph.svg" alt="GitHub Activity Graph">
+ ![GitHub Activity Graph](https://camo.githubusercontent.com/graph?username=Wasayullah&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
