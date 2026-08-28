@@ -78,7 +78,11 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasayullah&theme=react-dark&hide_border=true&area=true"/>
+ <img
+    src="https://raw.githubusercontent.com/Wasayullah/Wasayullah/output/activity-graph.svg"
+    alt="Mohammad Wasayullah GitHub Activity Graph"
+    width="100%"
+  />
 
 </div>
 
