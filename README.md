@@ -78,11 +78,7 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <div align="center">
 
- <img
-    src="https://raw.githubusercontent.com/Wasayullah/Wasayullah/output/activity-graph.svg"
-    alt="Mohammad Wasayullah GitHub Activity Graph"
-    width="100%"
-  />
+ <img src="./activity-graph.svg" alt="GitHub Activity Graph">
 
 </div>
 
