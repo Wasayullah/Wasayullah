@@ -16,9 +16,6 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <br>
 
-
-<br>
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -57,8 +54,6 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <br>
 
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,18 +67,15 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <br>
 
-
-
 ## 📈 Activity Graph
 
 <div align="center">
 
- ![GitHub Activity Graph](https://camo.githubusercontent.com/graph?username=Wasayullah&theme=react-dark&hide_border=true&area=true)
+<img src="https://github.pumbas.net/api/contributions/Wasayullah?colour=4B8BF5&bgColour=0F172A&dotColour=E5E7EB" width="100%" alt="Wasayullah's GitHub contribution graph"/>
 
 </div>
 
 <br>
-
 
 <div align="center">
 
@@ -92,7 +84,6 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 </div>
 <br>
 <br>
-
 
 ## 🏆 Trophies
 
@@ -117,7 +108,6 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 </div>
 
-
 <br>
 
 <div align="center">
@@ -126,8 +116,6 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 
 <img src="https://komarev.com/ghpvc/?username=Wasayullah&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
-
-
 </div>
 
 <br>
@@ -135,5 +123,3 @@ I know my projects won't always look as polished as ones built with heavy AI gen
 ---
 
 # [Wasayullah](https://github.com/Wasayullah)
- 
- 
